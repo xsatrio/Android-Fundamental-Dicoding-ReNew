@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_homedicod">Dicoding Events</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_upcoming">Upcoming Events</string>
+    <string name="title_finished">Finished Events</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="menu_upcoming">Upcoming</string>
+    <string name="menu_finished">Finished</string>
+    <string name="informasi">Informasi :</string>
+    <string name="searchbar_hint">Mau cari event apa...?</string>
+    <string name="title_search">Search Events</string>
+    <string name="menu_search">Search</string>
+    <string name="register">Register</string>
+    <string name="mediaCover">Media Cover</string>
+    <string name="judul">Judul</string>
+    <string name="splash">Splash Logo</string>
+    <string name="error401">401 Unauthorized: Bad Request</string>
+    <string name="error403">403 Forbidden: Access Denied</string>
+    <string name="error404">404 Not Found: Resource not found</string>
+    <string name="title_error">"Periksa Jaringan Anda "</string>
+    <string name="quota_text">Sisa Kuota: %d</string>
+</resources>
